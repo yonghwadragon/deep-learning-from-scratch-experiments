@@ -1,4 +1,4 @@
-# 7_activation_functions.py
+# 07_activation_functions.py
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib import rc

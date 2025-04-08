@@ -1,4 +1,4 @@
-# 8_activation_effect_in_model.py
+# 08_activation_effect_in_model.py
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd

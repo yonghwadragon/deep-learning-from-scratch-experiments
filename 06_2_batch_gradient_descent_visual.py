@@ -1,4 +1,4 @@
-# 6_2_batch_gradient_descent_visual.py
+# 06_2_batch_gradient_descent_visual.py
 """일부로 안되는 예시
 출력층에 시그모이드를 사용하면 회귀 문제에서 큰 값을 예측할 수 없음.
 적합하지 않다는 점을 확인.

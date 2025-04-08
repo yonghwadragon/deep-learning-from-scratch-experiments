@@ -1,4 +1,4 @@
-# 6_batch_gradient_descent_visual.py
+# 06_batch_gradient_descent_visual.py
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd

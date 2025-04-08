@@ -1,4 +1,4 @@
-# 6_3_sigmoid_scaled_viz.py
+# 06_3_sigmoid_scaled_viz.py
 # 출력층에서 스케일링 적용
 import numpy as np
 import matplotlib.pyplot as plt

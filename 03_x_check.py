@@ -1,3 +1,4 @@
+# 03_check.py_2
 import numpy as np 
 
 x = np.linspace(1, 10 , 10)         

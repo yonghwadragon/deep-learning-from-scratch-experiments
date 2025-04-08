@@ -1,4 +1,4 @@
-# 9_hidden_layer_effect.py
+# 09_hidden_layer_effect.py
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd

@@ -1,4 +1,4 @@
-# 4_simple_gradient_descent.py
+# 04_simple_gradient_descent.py
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
