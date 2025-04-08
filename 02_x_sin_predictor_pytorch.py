@@ -1,4 +1,4 @@
-# 2_sin_predictor_pytorch.py
+# 02_sin_predictor_pytorch.py
 import numpy as np                      # 수치 계산을 위한 numpy
 import torch                            # 파이토치 불러오기
 import torch.nn as nn                   # 신경망 모듈

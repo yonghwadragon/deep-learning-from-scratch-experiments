@@ -1,4 +1,4 @@
-# 1_sin_predictor.py
+# 01_sin_predictor.py
 import numpy as np                # 넘파이 불러오기
 import matplotlib.pyplot as plt  # 그래프 출력을 위한 모듈
 # from tensorflow.keras.models import Sequential  # 순차적 모델
