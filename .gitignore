@@ -11,3 +11,6 @@ __pycache__/
 # 기타 IDE 설정 (선택)
 .vscode/
 .idea/
+
+# data
+data/
