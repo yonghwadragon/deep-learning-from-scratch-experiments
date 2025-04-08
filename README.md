@@ -1,7 +1,7 @@
 # 🧐 deep-learning-from-scratch-experiments
 
-개요
-수학적 원리와 수식 중심의 직관적인 신경망 실험 프로젝트입니다.
+개요  
+수학적 원리와 수식 중심의 직관적인 신경망 실험 프로젝트입니다.  
 NumPy로 원리를 이해하고, PyTorch로 확장하면서 딥러닝 학습 과정을 직관적으로 체험합니다.
 
 ---
@@ -32,12 +32,18 @@ NumPy로 원리를 이해하고, PyTorch로 확장하면서 딥러닝 학습 과
 - `12_2_xor_activation_improved_numpy.py`: NumPy 개선판 (은닉층 증가 + BCE)
 - `12_3_xor_activation_comparison.py`: PyTorch 기반 XOR + BCELoss + Adam
 
+### 5. 실제 데이터 예제 & 과적합 방지 기법
+- `13_fashion_mnist_multiclass.py`: FashionMNIST 다중 클래스 분류
+- `14_california_housing_regression.py`: 캘리포니아 주택 가격 데이터(회귀)
+- `15_overfitting_control_methods.py`: Dropout / BatchNorm / L2 정규화로 과적합 억제 (Train vs Test Loss)
+
 ---
 
 ## 목적
 - 수식 가정만으로 MLP의 작동 원리와 학습 과정 이해
 - 시각화를 통해 동작 방식 체험
 - PyTorch vs NumPy 시간/성능 비교
+- 실제 데이터셋(FashionMNIST, CaliforniaHousing) 적용부터 과적합 방지 기법 이해
 
 ---
 
@@ -45,4 +51,4 @@ NumPy로 원리를 이해하고, PyTorch로 확장하면서 딥러닝 학습 과
 - Python 3.x
 - NumPy, Matplotlib
 - PyTorch
-
+- scikit-learn (회귀 등 실제 데이터셋 전처리)
